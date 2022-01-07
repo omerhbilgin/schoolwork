@@ -9,7 +9,6 @@
 // time of each call. 
  
 // Written by Omer Hamza Bilgin
-// Student ID: 040170205
 // 7 November 2021
 // Written in vim
 
